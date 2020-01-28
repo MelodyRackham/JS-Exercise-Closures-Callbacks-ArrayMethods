@@ -1,3 +1,10 @@
+// ➡️ LECTURE NOTES ⬅️ //
+
+// HOF + Callbacks: ⬇️
+// Higher order functions receive other functions as their parameters
+// Callback functions are the functions that arer passed into the higher order functions as arguments
+// callback functions are passed in // HOF receive
+
 // ⭐️ Example Challenge START ⭐️
 
 /**
